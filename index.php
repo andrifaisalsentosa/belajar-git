@@ -7,5 +7,6 @@
 <body>
 	<h1>Belajar GitHub Cuy</h1>
 	<p>ini paragraf</p>
+	<footer>Footer</footer>
 </body>
 </html>
