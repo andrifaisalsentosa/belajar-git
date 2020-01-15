@@ -5,6 +5,7 @@
 	<title>Belajar GIT</title>
 </head>
 <body>
+	<header>Header</header>
 	<h1>Belajar GitHub Cuy</h1>
 	<p>ini paragraf</p>
 	<footer>Footer</footer>
