@@ -6,6 +6,5 @@
 </head>
 <body>
 	<h1>Belajar GitHub Cuy</h1>
-	<p>Paragraf</p>
 </body>
 </html>
