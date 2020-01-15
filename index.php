@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Belajar GitHub Cuy</h1>
+	<p>ini paragraf</p>
 </body>
 </html>
